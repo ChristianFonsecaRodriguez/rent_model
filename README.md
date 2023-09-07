@@ -1,7 +1,7 @@
 rent_model
 ==============================
 
-Modelo de REnta
+Modelo de Renta
 
 Project Organization
 ------------
